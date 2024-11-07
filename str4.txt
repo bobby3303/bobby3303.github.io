@@ -1,0 +1,28 @@
+<html>
+<title>
+фото и видео монтаж
+</title>
+<style>
+body{
+	bacground-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	
+}
+</style>
+<body background= 'rim2.png' width=100% height=100%>
+<a href="str1.html"><img src = "home.png" alt="назад" height=50 width=50 align="left"></a>
+<p align = center><font face=calibri size=7 color=black> видеоигры </font></p>
+<br><br>
+<img src="dc.png" alt="dead cells" width=300 height=200 align=left>
+<img src="fac.png" alt="factorio" width=300 height=200 align=left><font face=calibri size=6 color=black>почти всю жизнь у меня не было компьютера,<br> поэтому занимался мобильным геймингом<br> и попробовал множество мобильных игр.<br> к сожалению, большинство из них просто невозможно сравнивать </font>
+<br><br>
+<img src="mind.png" alt="mindusry" width=300 height=200 align=left>
+<img src="st.png" alt="starcraft 2" width=300 height=200 align=left><font face=calibri size=6 color=black>с играми для пк, ведь вторые в разы лучше,<br> и вот мой небольшой списочек игр которые я прошел<br> после того как приобрел компьютер</font>
+<br>
+<font face=calibri size=6 color=black><a href="spis.docx">список</a></font>
+<br><br><br>
+<img src="tr.png" alt="terraria" width=300 height=200 align=left>
+<img src="cp.png" alt="cuphead" width=300 height=200 align=left>
+</body>
+</html>

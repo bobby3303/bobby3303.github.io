@@ -1,0 +1,30 @@
+<html>
+<title>
+фото и видео монтаж
+</title>
+<style>
+body{
+	bacground-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	
+}
+</style>
+<body background= 'rim2.png' width=100% height=100%>
+<a href="index.html"><img src = "home.png" alt="назад" height=50 width=50 align="left"></a>
+<p align = center><font face=calibri size=7 color=black> фото и видео монтаж </font></p>
+<br><br>
+<img src="chko.png" alt="очки" width=300 height=300 align=left>
+<img src="tri.png" alt="меньше чем три" width=350 height=300 align=left><font face=calibri size=6 color=black>здесь показаны примеры<br>моих ранних работ, когда я<br>только начинал использовать фотошоп.<br></font>
+<font face=calibri size=6 color=black>позже я занялся созданием мемов<br>которые по большей части локальные,<br>поэтому я не могу их показать<br>так как сами участники мемов не хотят этого</font>
+<br><br><br><br>
+<img src="cod.png" alt="глитч" width=653 height=400 align=left>
+<font face=calibri size=6 color=black>так же я создал несколько видео-мемов, но показать к сожалению не могу по той же причине</font>
+<br><br>
+<font face=calibri size=6 color=black>зато могу показать легендарную серию мемов с собой, ведь мне не жалко)</font>
+<br>
+<font face=calibri size=6 color=black><a href="pd.pdf">влад до после</a></font>
+<br>
+<font face=calibri size=4 color=black>странно, но я думал их гораздо больше</font>
+</body>
+</html>
